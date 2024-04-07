@@ -20,11 +20,15 @@ Bookify is a mobile application designed to serve as your personal bookshelf, he
 - **url_launcher**: A Flutter plugin for launching URLs, making it easy to open web pages, send emails, and more.
 
 ## Screenshots
-![bookly1](https://github.com/hamzabouakoura/bookly_app/assets/103844829/7a0539d1-1b0a-4564-b96c-7aa8efcb9841)
-![bookly2](https://github.com/hamzabouakoura/bookly_app/assets/103844829/3c7370c0-a6ab-4e5e-9a63-dc1e5fe77245)
-![bookly3](https://github.com/hamzabouakoura/bookly_app/assets/103844829/432d6fd3-be04-425b-ac84-d36d31596894)
-![bookly4](https://github.com/hamzabouakoura/bookly_app/assets/103844829/4251484b-12b2-4698-b3c1-5fb7524f111c)
-![bookly5](https://github.com/hamzabouakoura/bookly_app/assets/103844829/79ca8101-fc18-4af3-b7b7-ecd5567dc674)
+<table>
+  <tr>
+    <td><img src="https://github.com/hamzabouakoura/bookly_app/assets/103844829/7a0539d1-1b0a-4564-b96c-7aa8efcb9841" alt="Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/bookly_app/assets/103844829/3c7370c0-a6ab-4e5e-9a63-dc1e5fe77245" alt="Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/bookly_app/assets/103844829/432d6fd3-be04-425b-ac84-d36d31596894" alt="Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/bookly_app/assets/103844829/4251484b-12b2-4698-b3c1-5fb7524f111c" alt="Screenshot 4" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/bookly_app/assets/103844829/79ca8101-fc18-4af3-b7b7-ecd5567dc674" alt="Screenshot 5" width="200"/></td>
+  </tr>
+</table>
 
 
 
